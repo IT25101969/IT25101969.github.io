@@ -1,0 +1,122 @@
+{
+  "name": "Sachin Jayathilaka",
+  "initials": "SJ.",
+  "role": "Applied Data Analytics & Information Technology Undergraduate",
+  "location": "Battaramulla, Sri Lanka",
+  "countryCode": "LK",
+  "email": "sachinjayathilaka.career@gmail.com",
+  "linkedIn": "https://www.linkedin.com/in/sachin-jayathilaka-66a84b440/",
+  "github": "https://github.com/IT25101969",
+  "siteUrl": "https://IT25101969.github.io/",
+  "seoDescription": "Sachin Jayathilaka's portfolio. Applied Data Analytics and Information Technology undergraduate in Sri Lanka, exploring data analysis, machine learning, and software development.",
+  "seoKeywords": "Sachin Jayathilaka, Sachin Jayathilaka portfolio, Sachin Jayathilaka data analytics",
+  "resumeUrl": null,
+  "introduction": "I explore the space between data, systems, and useful software.",
+  "summary": "I am an undergraduate studying Applied Data Analytics and Information Technology in Sri Lanka. I enjoy turning messy information into clearer decisions and building software that solves practical problems.",
+  "interests": "Open to internships in Data Science, Software Engineering, IT, Data Analytics, and Business Analysis.",
+  "skills": [
+    {
+      "category": "Data & machine learning",
+      "items": [
+        "Python",
+        "SQL",
+        "Machine Learning",
+        "Data Analysis",
+        "Data Preprocessing",
+        "PCA",
+        "Feature Selection"
+      ]
+    },
+    {
+      "category": "Software development",
+      "items": [
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "Maven"
+      ]
+    },
+    {
+      "category": "Tools & workflow",
+      "items": [
+        "Git",
+        "GitHub",
+        "Google Colab"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "number": "01",
+      "category": "Machine learning · Academic",
+      "title": "Fashion-MNIST Machine Learning & Data Preprocessing",
+      "description": "A study of grayscale image data preparation: integrity checks, normalization, variance-based feature selection, PCA, and data augmentation.",
+      "tags": [
+        "Python",
+        "Preprocessing",
+        "PCA",
+        "Feature Selection"
+      ],
+      "url": null,
+      "visual": "fashion"
+    },
+    {
+      "number": "02",
+      "category": "Software development · Academic",
+      "title": "Fitness Center Membership System",
+      "description": "A Java 21 and Spring Boot academic project centered on a fitness center membership system. The repository includes a Maven backend.",
+      "tags": [
+        "Java 21",
+        "Spring Boot",
+        "Maven"
+      ],
+      "url": "https://github.com/IT25101969/Fitness-Center-Membership-System",
+      "visual": "fitness"
+    },
+    {
+      "number": "03",
+      "category": "Full-stack development · Collaborative",
+      "title": "University Student Help Desk",
+      "description": "A collaborative university help desk web application built with Java 21, Spring Boot, Thymeleaf, and MySQL.",
+      "tags": [
+        "Java 21",
+        "Spring Boot",
+        "MySQL",
+        "Thymeleaf"
+      ],
+      "url": "https://github.com/IT25101969/Web-Based-Help-Desk-System",
+      "visual": "helpdesk"
+    }
+  ],
+  "education": [
+    {
+      "school": "University of Colombo",
+      "detail": "Faculty of Science · Department of Statistics",
+      "degree": "Applied Data Analytics",
+      "years": "2024–2027",
+      "expected": true
+    },
+    {
+      "school": "Sri Lanka Institute of Information Technology",
+      "detail": "Faculty of Computing",
+      "degree": "Bachelor of Information Technology",
+      "years": "2025–2029",
+      "expected": true
+    },
+    {
+      "school": "Gankanda Central College",
+      "detail": "",
+      "degree": "Secondary education",
+      "years": "",
+      "expected": false
+    }
+  ],
+  "achievement": {
+    "title": "All-Island Boxing Bronze Medal",
+    "year": "2018"
+  },
+  "languages": [
+    "English",
+    "German"
+  ]
+}
